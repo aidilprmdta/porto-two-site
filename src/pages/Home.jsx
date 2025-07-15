@@ -9,15 +9,27 @@ export default function Home() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.7, ease: "easeOut" }}
         >
+            {/* ✅ Gambar Profil */}
+            <motion.img
+                src="https://www.dl.dropboxusercontent.com/scl/fi/2dj9uo2gia3e43a65phta/profil.jpg?rlkey=fmlh6mmtrfk1q7xe8xpflzvve&st=by8jna8p"
+                alt="Profile"
+                className="w-64 h-64 rounded-full mb-6 border-4 border-blue-500 shadow-lg"
+                initial={{ opacity: 0, scale: 0.8 }}
+                animate={{ opacity: 1, scale: 1 }}
+                transition={{ delay: 0.2, duration: 0.5 }}
+            />
+
+            {/* Judul */}
             <motion.h1
                 className="text-5xl sm:text-6xl font-extrabold bg-gradient-to-r from-blue-600 to-indigo-500 bg-clip-text text-transparent mb-6"
                 initial={{ opacity: 0, y: -20 }}
                 animate={{ opacity: 1, y: 0 }}
-                transition={{ delay: 0.2, duration: 0.6 }}
+                transition={{ delay: 0.3, duration: 0.6 }}
             >
                 Halo! Saya Aidil 👋
             </motion.h1>
 
+            {/* Deskripsi */}
             <motion.p
                 className="text-lg sm:text-xl max-w-2xl mb-8 text-gray-700 dark:text-gray-300 leading-relaxed"
                 initial={{ opacity: 0, y: 20 }}
@@ -27,6 +39,7 @@ export default function Home() {
                 Saya seorang <strong className="text-blue-600 dark:text-blue-400">web developer pemula</strong> yang gemar membangun aplikasi modern menggunakan React, Tailwind CSS, dan teknologi web lainnya. Selamat datang di portofolio saya!
             </motion.p>
 
+            {/* Tombol Sosial */}
             <motion.div
                 className="flex flex-wrap justify-center gap-4 mb-10"
                 initial={{ opacity: 0, scale: 0.95 }}
@@ -57,6 +70,7 @@ export default function Home() {
                 </a>
             </motion.div>
 
+            {/* Footer */}
             <motion.div
                 className="text-sm text-gray-500 dark:text-gray-400"
                 initial={{ opacity: 0 }}
