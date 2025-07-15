@@ -26,11 +26,11 @@ function About() {
 
         <div className="space-y-5 text-lg leading-relaxed text-gray-800 dark:text-gray-200">
           <p>
-            Hai! Aku <span className="font-semibold text-indigo-700 dark:text-indigo-300">Aidil Pramadita Putra</span> dari <span className="font-medium">Duri</span>. Saat ini aku adalah mahasiswa semester 3 di Program Studi Teknik Informatika, Fakultas Sains dan Teknologi, Universitas Islam Negeri Sultan Syarif Kasim.
+            Hai! Aku <span className="font-semibold text-indigo-700 dark:text-indigo-300">Aidil Pramadita Putra</span> aku berasal dari <span className="font-medium">Duri</span>. Saat ini aku adalah mahasiswa semester 3 di Program Studi Teknik Informatika, Fakultas Sains dan Teknologi, Universitas Islam Negeri Sultan Syarif Kasim.
           </p>
 
           <p>
-            Aku memiliki ketertarikan besar dalam bidang <span className="font-semibold">pemrograman</span>, mulai dari pengembangan web hingga keamanan siber. Awalnya bercita-cita menjadi pembuat animasi, tapi kini berfokus untuk menguasai berbagai bahasa pemrograman.
+            Aku memiliki ketertarikan besar dalam bidang <span className="font-semibold">pemrograman</span>, mulai dari pengembangan web, robotic, hingga keamanan siber . Awalnya aku bercita-cita menjadi pembuat animasi, tapi kini berfokus untuk menguasai berbagai bahasa pemrograman.
           </p>
 
           <p>
@@ -39,6 +39,18 @@ function About() {
 
           <p>
             Aku aktif mengikuti perkembangan dunia teknologi, membaca buku IT, serta berpartisipasi dalam proyek kolaboratif seperti open source. Aku percaya bahwa teknologi yang tepat bisa membawa perubahan positif untuk masyarakat.
+          </p>
+
+          <p>
+            Selain itu, aku juga aktif dalam organisasi kampus dan komunitas teknologi. Aku percaya bahwa kolaborasi dan berbagi pengetahuan adalah kunci untuk berkembang bersama.
+          </p>
+
+          <p>
+            Aku selalu terbuka untuk belajar hal baru dan siap menghadapi tantangan. Dengan semangat yang tinggi, aku yakin bisa mencapai cita-cita sebagai programmer handal yang berkontribusi bagi masyarakat.
+          </p>
+
+          <p>
+            Terima kasih telah mengunjungi halaman ini! Jika kamu ingin tahu lebih banyak tentang aku, jangan ragu untuk menghubungiku melalui media sosial atau email. Aku senang bisa berbagi pengetahuan dan pengalaman dengan orang lain.
           </p>
         </div>
       </motion.div>
