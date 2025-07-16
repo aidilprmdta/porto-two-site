@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { FaGithub, FaLinkedin, FaEnvelope } from "react-icons/fa";
+import { FaGithub, FaLinkedin, FaEnvelope, FaInstagram } from "react-icons/fa";
 
 export default function Home() {
     return (
@@ -26,7 +26,7 @@ export default function Home() {
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ delay: 0.3, duration: 0.6 }}
             >
-                Halo! Saya Aidil 👋
+                Hai! Saya Aidil 👋
             </motion.h1>
 
             {/* Deskripsi */}
@@ -36,7 +36,7 @@ export default function Home() {
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ delay: 0.4, duration: 0.6 }}
             >
-                Saya seorang <strong className="text-blue-600 dark:text-blue-400">web developer pemula</strong> yang gemar membangun aplikasi modern menggunakan React, Tailwind CSS, dan teknologi web lainnya. Selamat datang di portofolio saya!
+                Saya seorang <strong className="text-blue-600 dark:text-blue-400">web developer pemula</strong> yang gemar membangun aplikasi modern menggunakan React, Tailwind CSS, Node.js, Next.js dan teknologi web lainnya. Selamat datang di portofolio saya!
             </motion.p>
 
             {/* Tombol Sosial */}
@@ -67,6 +67,12 @@ export default function Home() {
                     className="flex items-center gap-2 bg-gray-700 hover:bg-gray-800 text-white font-medium py-2 px-5 rounded-full transition"
                 >
                     <FaEnvelope /> Email
+                </a>
+                <a
+                    href="https://www.instagram.com/aidilprmdta"
+                    className="flex items-center gap-2 bg-pink-700 hover:bg-gray-800 text-white font-medium py-2 px-5 rounded-full transition"
+                >
+                    <FaInstagram /> Instagram
                 </a>
             </motion.div>
 
