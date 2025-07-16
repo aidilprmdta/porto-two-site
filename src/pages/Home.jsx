@@ -11,7 +11,7 @@ export default function Home() {
         >
             {/* ✅ Gambar Profil */}
             <motion.img
-                src="https://www.dl.dropboxusercontent.com/scl/fi/2dj9uo2gia3e43a65phta/profil.jpg?rlkey=fmlh6mmtrfk1q7xe8xpflzvve&st=by8jna8p"
+                src="https://www.dl.dropboxusercontent.com/scl/fi/wqictg7xun55w0tiegpw4/IMG_4981.JPG?rlkey=om9xwok0wri1u11y7jdzuc2c6&st=2dv6dfcw"
                 alt="Profile"
                 className="w-64 h-64 rounded-full mb-6 border-4 border-blue-500 shadow-lg"
                 initial={{ opacity: 0, scale: 0.8 }}
