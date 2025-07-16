@@ -26,15 +26,23 @@ function About() {
 
         <div className="space-y-5 text-lg leading-relaxed text-gray-800 dark:text-gray-200">
           <p>
-            Hai! Aku <span className="font-semibold text-indigo-700 dark:text-indigo-300">Aidil Pramadita Putra</span> aku berasal dari <span className="font-medium">Duri</span>. Saat ini aku adalah mahasiswa semester 3 di Program Studi Teknik Informatika, Fakultas Sains dan Teknologi, Universitas Islam Negeri Sultan Syarif Kasim.
+            Hai! Aku <span className="font-semibold text-indigo-700 dark:text-indigo-300">Aidil Pramadita Putra</span> aku berasal dari <span className="font-medium text-indigo-700 dark:text-indigo-300">Duri</span>. Saat ini aku adalah mahasiswa semester 3 di Program Studi Teknik Informatika, Fakultas Sains dan Teknologi, Universitas Islam Negeri Sultan Syarif Kasim.
           </p>
 
           <p>
-            Aku memiliki ketertarikan besar dalam bidang <span className="font-semibold">pemrograman</span>, mulai dari pengembangan web, robotic, hingga keamanan siber . Awalnya aku bercita-cita menjadi pembuat animasi, tapi kini berfokus untuk menguasai berbagai bahasa pemrograman.
+            Aku memiliki ketertarikan besar dalam bidang <span className="font-semibold text-indigo-700 dark:text-indigo-300">pemrograman</span>, mulai dari pengembangan web, robotic, hingga keamanan siber . Awalnya aku bercita-cita menjadi pembuat animasi, tapi kini berfokus untuk menguasai berbagai bahasa pemrograman.
           </p>
 
           <p>
-            Selain itu, aku juga suka <span className="italic">musik</span>, <span className="italic">voli</span>, dan <span className="italic">badminton</span>. Aku ingin menjadi seorang programmer multitalenta yang bisa membangun aplikasi bermanfaat dengan antarmuka menarik dan pengalaman pengguna yang menyenangkan.
+            Passion aku adalah membangun aplikasi web yang menarik dan fungsional. Aku suka belajar teknologi baru seperti <span className="font-semibold text-indigo-700 dark:text-indigo-300">React</span>, <span className="font-semibold text-indigo-700 dark:text-indigo-300">Next.js</span>, <span className="font-semibold text-indigo-700 dark:text-indigo-300">Tailwind CSS</span>, <span className="font-semibold text-indigo-700 dark:text-indigo-300">Node.js</span>, dan <span className="font-semibold text-indigo-700 dark:text-indigo-300">Framer Motion</span>. Aku percaya bahwa kombinasi desain yang baik dan pengalaman pengguna yang menyenangkan adalah kunci untuk aplikasi yang sukses.
+          </p>
+
+          <p>
+            Aku juga memiliki soft skill yang baik seperti <span className="font-semibold text-indigo-700 dark:text-indigo-300">komunikasi</span>, <span className="font-semibold text-indigo-700 dark:text-indigo-300">kerja tim</span>, <span className="font-semibold text-indigo-700 dark:text-indigo-300">Manajemen waktu</span>, <span className="font-semibold text-indigo-700 dark:text-indigo-300">Kreatif</span>, <span className="font-semibold text-indigo-700 dark:text-indigo-300">Inovatif</span>, dan <span className="font-semibold text-indigo-700 dark:text-indigo-300">Empati</span>.
+          </p>
+
+          <p>
+            Selain itu, aku juga suka bermain alat <span className="italic text-indigo-700 dark:text-indigo-300">Musik</span>, bermain <span className="italic text-indigo-700 dark:text-indigo-300">voli</span>, dan <span className="italic text-indigo-700 dark:text-indigo-300" >badminton</span>. Aku ingin menjadi seorang programmer multitalenta yang bisa membangun aplikasi bermanfaat dengan antarmuka menarik dan pengalaman pengguna yang menyenangkan.
           </p>
 
           <p>
