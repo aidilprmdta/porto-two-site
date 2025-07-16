@@ -3,6 +3,24 @@ import { motion } from 'framer-motion';
 
 const experiences = [
   {
+    role: "Freelance",
+    company: "personal projects",
+    period: "Mar 2019 - Jun 2020",
+    description: [
+      "Sebagai seorang freelancer, saya telah mengerjakan berbagai proyek pribadi yang mencakup desing dan gambar animasi.",
+    ],
+    skills: [
+      "🎥 Videografi & Penyuntingan Video",
+      "🎨 Desain",
+      "💬 Komunikasi",
+      "👥 Kerja Sama Tim",
+    ],
+    experience: [
+      " Mengerjakan proyek desain grafis dan gambar animasi untuk klien lokal",
+      " Membuat konten visual untuk media sosial",    
+    ]
+  },
+  {
     role: "Jurnalistik",
     company: "SMA IT Al-Kautsar",
     period: "Okt 2021 - Sep 2022",
@@ -38,7 +56,12 @@ const experiences = [
       "🖌️ Penyuntingan konten visual dan media sosial"
     ],
     experience: [
-      "Tujuan kami adalah untuk memastikan bahwa tampilan visual dan komunikasi organisasi tetap segar, inspiratif, dan estetis, sehingga pesan organisasi dapat tersampaikan dengan baik dan menarik bagi berbagai mahasiswa TI."
+      " Menciptakan konten visual yang menarik untuk media sosial",
+      " Mengorganisir dan mendokumentasikan acara jurusan",
+      " Mengembangkan strategi komunikasi yang efektif untuk meningkatkan visibilitas jurusan",
+      " Membangun hubungan dengan audiens melalui interaksi di media sosial",
+      " Menganalisis kinerja konten dan memberikan rekomendasi untuk perbaikan",
+      " Mengikuti tren desain dan teknologi terbaru untuk meningkatkan kualitas konten"
     ]
   }
 ];
