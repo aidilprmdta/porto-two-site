@@ -68,6 +68,18 @@ function Contact() {
           </div>
 
           <div>
+            <label htmlFor="subject" className="block mb-1 font-semibold">Subjek</label>
+            <input
+              id="subject"
+              name="subject"
+              type="text"
+              placeholder="Subjek"
+              required
+              className="w-full px-4 py-2 rounded-lg border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-900 text-black dark:text-white focus:outline-none focus:ring-2 focus:ring-blue-400"
+            />
+          </div>
+
+          <div>
             <label htmlFor="message" className="block mb-1 font-semibold">Pesan</label>
             <textarea
               id="message"
