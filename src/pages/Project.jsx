@@ -12,7 +12,7 @@ const projects = [
   {
     image: "https://www.dl.dropboxusercontent.com/scl/fi/5qtr20kjyvdg33kxjp1cj/Personal.png?rlkey=896y0tnasgxwot9gwl0v8dcez&st=whiuhkvw",
     title: "Personal Portfolio Website",
-    description: "A responsive portfolio website built with React and Tailwind CSS to showcase my projects and skills.",
+    description: "A personal portfolio website built using HTML, CSS, and JavaScript. Hosted on GitHub Pages.",
     link: "https://github.com/aidilprmdta/website-aidilprmdta",
     tech: ["Html", "CSS", "JavaScript", "Node.js"],
   },
@@ -26,7 +26,7 @@ const projects = [
   {
     image: "https://www.dl.dropboxusercontent.com/scl/fi/89sk17r62w7fauaz78nuq/Toko-Makanan.png?rlkey=2piqaw44alkjtehzauo3vr1ws&st=af0anp9v",
     title: "Toko Makanan",
-    description: "A Java-based cashier app with Java Swing GUI and OOP structure, aimed at small shop transactions.",
+    description: "A food store web app with product listing, cart, and checkout features. Built with Java and JavaFX.",
     link: "https://github.com/aidilprmdta/Toko-Makanan",
     tech: ["Java", "JavaFX"],
   },
