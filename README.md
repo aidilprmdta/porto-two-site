@@ -1,4 +1,3 @@
-````markdown
 # 🌐 Porto Two Site
 
 Situs portofolio pribadi yang menampilkan informasi tentang saya, pengalaman, skill, proyek, serta kontak. Dibangun menggunakan React, Tailwind CSS, Framer Motion, dan didesain dengan mode terang dan gelap yang interaktif.
@@ -69,5 +68,3 @@ Proyek ini bersifat open-source dan tersedia di bawah lisensi [MIT](LICENSE).
 ---
 
 > Dibuat dengan ❤️ oleh [Aidil Pramadita Putra](https://github.com/aidilprmdta)
-
-````
