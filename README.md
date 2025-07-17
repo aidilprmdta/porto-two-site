@@ -1,77 +1,73 @@
-
-
-```markdown
+````markdown
 # 🌐 Porto Two Site
 
-Selamat datang di repositori **Porto Two Site** – sebuah website portofolio pribadi yang menampilkan profil, proyek, serta keahlian saya sebagai seorang developer!
-
-## 📌 Deskripsi
-
-Website ini dibuat dengan tujuan menampilkan portofolio saya secara profesional dan interaktif, menggunakan teknologi modern seperti **React.js**, **Tailwind CSS**, dan **Framer Motion**. Desainnya responsif dan bersih, cocok ditampilkan di berbagai perangkat.
+Situs portofolio pribadi yang menampilkan informasi tentang saya, pengalaman, skill, proyek, serta kontak. Dibangun menggunakan React, Tailwind CSS, Framer Motion, dan didesain dengan mode terang dan gelap yang interaktif.
 
 ## ✨ Fitur Utama
 
-- 🔹 Halaman Beranda dengan animasi interaktif
-- 🔹 Halaman Tentang (About) dengan info pribadi
-- 🔹 Halaman Proyek (Projects) yang menampilkan beberapa karya
-- 🔹 Halaman Kontak (Contact) dengan form dan link sosial media
-- 🔹 Mode Gelap/Terang (Dark/Light Mode)
-- 🔹 Navigasi responsif (desktop & mobile)
+- Mode **Terang/Gelap** (Light/Dark Theme Toggle)
+- Navigasi **Responsif**
+- Animasi halus dengan **Framer Motion**
+- Halaman-halaman:
+  - Beranda
+  - Tentang Saya
+  - Portofolio
+  - Sertifikat
+  - Kontak
 
 ## 🛠️ Teknologi yang Digunakan
 
-- **React.js** – Library utama untuk membangun antarmuka
-- **Tailwind CSS** – Framework utility-first untuk styling
-- **Framer Motion** – Library animasi modern
-- **Lucide Icons** – Icon modern berbasis SVG
-- **React Router DOM** – Navigasi antar halaman
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Framer Motion](https://www.framer.com/motion/)
+- [Lucide Icons](https://lucide.dev/)
+- [Vite](https://vitejs.dev/) — untuk build cepat
 
-## 🚀 Cara Menjalankan Project
+## 🚀 Demo Langsung
 
-1. Clone repositori ini:
-   ```bash
-   git clone https://github.com/aidilprmdta/porto-two-site.git
-   ```
+🌍 [porto-two-site.vercel.app](https://porto-two-site.vercel.app)
 
-2. Masuk ke folder project:
-   ```bash
-   cd porto-two-site
-   ```
+## 📂 Struktur Folder
 
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
+```bash
+porto-two-site/
+├── public/
+│   └── index.html
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── pages/
+│   ├── App.jsx
+│   └── main.jsx
+├── tailwind.config.js
+└── package.json
+````
 
-4. Jalankan development server:
-   ```bash
-   npm run dev
-   ```
+## 📸 Preview
 
-5. Buka di browser:
-   ```
-   http://localhost:5173
-   ```
+![preview](https://github.com/aidilprmdta/porto-two-site/blob/main/image.png?raw=true) 
+## 🧑‍💻 Cara Menjalankan Proyek
 
-## 📷 Tampilan (Preview)
+```bash
+# Clone repositori
+git clone https://github.com/aidilprmdta/porto-two-site.git
 
-> *(Tambahkan screenshot jika ada untuk memperjelas tampilan website)*
+# Masuk ke direktori
+cd porto-two-site
 
-## 🧑 Tentang Saya
+# Instal dependensi
+npm install
 
-Saya **Aidil Pramadita Putra**, mahasiswa Teknik Informatika di UIN Suska Riau. Saya memiliki minat dalam pengembangan web, animasi interaktif, dan desain UI/UX.
+# Jalankan lokal
+npm run dev
+```
 
-## 📫 Kontak
+## 📝 Lisensi
 
-- 🌐 [Website Portofolio](https://aidilprmdta.github.io)
-- 📧 Email: pramadytaa@gmail.com
-- 📷 Instagram: [@aidilprmdta](https://instagram.com/aidilprmdta)
-
-## ✅ Status
-
-🚧 Website ini masih dalam tahap pengembangan (development). Update terbaru dan fitur tambahan akan segera ditambahkan.
+Proyek ini bersifat open-source dan tersedia di bawah lisensi [MIT](LICENSE).
 
 ---
 
-Terima kasih telah mengunjungi repositori ini! Jangan lupa kasih ⭐ jika kamu suka 😄
-```
+> Dibuat dengan ❤️ oleh [Aidil Pramadita Putra](https://github.com/aidilprmdta)
+
+````
