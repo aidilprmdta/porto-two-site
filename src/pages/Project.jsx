@@ -29,7 +29,14 @@ const projects = [
     description: "A food store web app with product listing, cart, and checkout features. Built with Java and JavaFX.",
     link: "https://github.com/aidilprmdta/Toko-Makanan",
     tech: ["Java", "JavaFX"],
-  },   
+  },
+  // {
+  //   image: "https://www.dl.dropboxusercontent.com/scl/fi/3wgcexeupfjzb5zy355nw/hbd1.png?rlkey=zwffm6e2fkvay78oim8cc2uwp&st=ot6ivn51",
+  //   title: "Birthday-site",
+  //   description: "Welcome to Birthday Site! This website is designed specifically to give romantic and special birthday wishes to your loved ones. Built with ❤️ using React, Tailwind CSS, Node.js, and Framer Motion for smooth animations and a heartfelt user experience.",
+  //   link: "https://github.com/aidilprmdta/Birthday-site",
+  //   tech: ["React", "Tailwind CSS", "JavaScript", "Node.js", "Framer Motion"],
+  // },     
   {
     image: "https://www.dl.dropboxusercontent.com/scl/fi/349vc7gsxottv38fiuzws/hbd2.png?rlkey=zp44c8mr2kjzm8qwgzny7yuqj&st=dsapjxax",
     title: "Birthday-site-two",
