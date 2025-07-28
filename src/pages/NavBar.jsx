@@ -16,7 +16,7 @@ function NavBar() {
     { to: '/contact', icon: <Phone size={18} />, label: 'Contact' },
     { to: '/experience', icon: <Briefcase size={18} />, label: 'Experience' },
     { to: '/project', icon: <Folder size={18} />, label: 'Project' },
-    { to: '/sertifikasi', icon: <Award size={18} />, label: 'Sertifikasi' },
+    { to: '/sertifikasi', icon: <Award size={18} />, label: 'Sertifikat' },
     { to: '/TechStack', icon: <BadgeCheck size={18} />, label: 'Tech Stack' },
   ];
 
