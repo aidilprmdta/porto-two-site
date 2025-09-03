@@ -67,26 +67,78 @@ const experiences = [
   {
     role: "Anggota Divisi HID - Kongres XVIII Departemen Teknik Informatika 2024",
     company: "Himpunan Mahasiswa Teknik Informatika",
-    period: "Jan 2025 - Des 2025",
+    period: "Okt 2024 - Des 2024",
     description: [
       "Joining the Public Relations, Information, and Documentation (HID) team for this department-level event provided me with new experience in the world of formal event documentation. I was tasked with designing and documenting the entire event using a camera. This experience taught me to work quickly, meticulously, and remain creative even under time pressure. All documentation was then archived for final reports and post-event content."
     ],
     skills: [
       "🎨 Graphic Design",
       "📸 Photography",
-      "💪Teamwork",
-      "👨‍💻Problem Solving",
-      "⌚Time Management"    
+      "💪 Teamwork",
+      "👨‍💻 Problem Solving",
+      "⌚ Time Management"    
     ],
-    experience: [
-      " Menciptakan konten visual yang menarik untuk media sosial",
-      " Mengorganisir dan mendokumentasikan acara jurusan",
-      " Mengembangkan strategi komunikasi yang efektif untuk meningkatkan visibilitas jurusan",
-      " Membangun hubungan dengan audiens melalui interaksi di media sosial",
-      " Menganalisis kinerja konten dan memberikan rekomendasi untuk perbaikan",
-      " Mengikuti tren desain dan teknologi terbaru untuk meningkatkan kualitas konten"
-    ]
-  }
+  },
+  {
+    role: "Member of the XI Curmative HID Division",
+    company: "Himpunan Mahasiswa Teknik Informatika",
+    period: "Mar 2025 - Mar 2025",
+    description: [
+      "For this spiritually-themed event, I was once again entrusted with being a member of the HID division. In addition to design, I was also responsible for documenting the event. Furthermore, I was also responsible for the registration process, orderly recording the attendance. This activity taught me how to multitask, maintain communication with the team, and consistently produce neat, publishable documentation."
+    ],
+    skills: [
+      "🎨 Graphic Design",
+      "📸 Photography",
+      "💪 Teamwork",
+      "Communication",
+      "Multitasking",    
+    ],
+  },
+  {
+    role: "Members of the HID Division of the HIMATIF Cup 2025",
+    company: "Himpunan Mahasiswa Teknik Informatika",
+    period: "Mei 2025 - Mei 2025",
+    description: [
+      "At this annual sporting event, I was entrusted with the role of designer and part of the documentation and videography team. Throughout the event, I captured key moments from each match using a camera, from the atmosphere of the match to the winning moments of the participating teams. This experience taught me the importance of speed, accuracy, and creativity in conveying information visually—especially in dynamic competitive situations. I also learned how to maintain good team coordination so that all content can be published quickly and remains engaging."
+    ],
+    skills: [
+      "🎨 Graphic Design",
+      "📸 Photography",
+      "Content Design for Social Media",
+      "Videography",
+      "Multitasking",   
+    ],
+  },
+  {
+    role: "Members of the HID Upgrading Division of HIMATIF 2025",
+    company: "Himpunan Mahasiswa Teknik Informatika",
+    period: "Mei 2025 - Mei 2025",
+    description: [
+      "HIMATIF Upgrading 2025 is an internal event organized by and for members of the Informatics Engineering Student Association (HIMATIF). The goal of this event is to strengthen relationships among members, build solidarity, and enhance organizational spirit within the HIMA environment. As a committee member from the Information Relations and Documentation (HID) division, I was tasked with designing and documenting the event through photography. Although internal in nature, this event still demanded professionalism and strong collaboration across divisions. I learned the importance of maintaining design quality consistent with the organization's identity and ensuring smooth documentation, even in a short timeframe. This experience strengthened my skills in working in a small organization, while maintaining neat, structured, and communicative work standards."
+    ],
+    skills: [
+      "🎨 Poster Design",
+      "📸 Photography",
+      "Manajemen aktu",
+      "Teamwork",
+      "Komunikasi",   
+    ],
+  },
+  {
+    role: "Member of the 2025 Asomatic HID Division",
+    company: "Himpunan Mahasiswa Teknik Informatika",
+    period: "Feb 2025 - Sekarang",
+    description: [
+      "ASOMATIVE 2025 is a four-day student community service camp focused on character development and social engagement for new students, including community service, visits to orphanages, environmental projects, and outreach to schools. In this program, I served as part of the Information Relations and Documentation (HID) division, specifically in content creation and video editing. I participated in managing footage from various activities, creating visual narratives, and editing the material into short and long-form video content for internal publications and social media. This experience honed my skills in video storytelling, documentation file management, and how to convey the spirit of collaboration, education, and social awareness through visual media. ASOMATIVE 2025 also broadened my perspective on the importance of community service as part of a student's role."
+    ],
+    skills: [
+      "🎨 Poster Design",
+      "📸 Photography",
+      "Manajemen aktu",
+      "Teamwork",
+      "Komunikasi",   
+    ],
+  },
 ];
 
 const cardVariants = {

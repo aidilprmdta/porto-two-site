@@ -21,7 +21,7 @@ function NavBar() {
   ];
 
   const linkClass =
-    'flex items-center gap-1 px-3 py-2 rounded-md transition duration-300 ease-in-out hover:bg-blue-200 hover:text-black dark:hover:bg-gray-700 dark:hover:text-white hover:-translate-y-0.5';
+    'flex items-center gap-1 px-1 py-2 rounded-md transition duration-300 ease-in-out hover:bg-blue-200 hover:text-black dark:hover:bg-gray-700 dark:hover:text-white hover:-translate-y-0.5';
 
   return (
     <nav className="flex justify-between items-center p-4 bg-white dark:bg-gray-900 text-black dark:text-white relative">

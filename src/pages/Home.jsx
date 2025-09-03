@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { FaGithub, FaLinkedin, FaEnvelope, FaInstagram } from "react-icons/fa";
+import { FaGithub, FaLinkedin, FaEnvelope, FaInstagram, FaCcVisa } from "react-icons/fa";
 
 export default function Home() {
     return (
@@ -73,6 +73,12 @@ export default function Home() {
                     className="flex items-center gap-2 bg-pink-700 hover:bg-gray-800 text-white font-medium py-2 px-5 rounded-full transition"
                 >
                     <FaInstagram /> Instagram
+                </a>
+                <a
+                    href="https://www.instagram.com/aidilprmdta"
+                    className="flex items-center gap-2 bg-pink-700 hover:bg-gray-800 text-white font-medium py-2 px-5 rounded-full transition"
+                >
+                    <FaCcVisa /> CV
                 </a>
             </motion.div>
 

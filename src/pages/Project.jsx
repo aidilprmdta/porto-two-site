@@ -30,13 +30,13 @@ const projects = [
     link: "https://github.com/aidilprmdta/Toko-Makanan",
     tech: ["Java", "JavaFX"],
   },
-  // {
-  //   image: "https://www.dl.dropboxusercontent.com/scl/fi/3wgcexeupfjzb5zy355nw/hbd1.png?rlkey=zwffm6e2fkvay78oim8cc2uwp&st=ot6ivn51",
-  //   title: "Birthday-site",
-  //   description: "Welcome to Birthday Site! This website is designed specifically to give romantic and special birthday wishes to your loved ones. Built with ❤️ using React, Tailwind CSS, Node.js, and Framer Motion for smooth animations and a heartfelt user experience.",
-  //   link: "https://github.com/aidilprmdta/Birthday-site",
-  //   tech: ["React", "Tailwind CSS", "JavaScript", "Node.js", "Framer Motion"],
-  // },     
+  {
+    image: "https://www.dl.dropboxusercontent.com/scl/fi/3wgcexeupfjzb5zy355nw/hbd1.png?rlkey=zwffm6e2fkvay78oim8cc2uwp&st=ot6ivn51",
+    title: "Birthday-site",
+    description: "Welcome to Birthday Site! This website is designed specifically to give romantic and special birthday wishes to your loved ones. Built with ❤️ using React, Tailwind CSS, Node.js, and Framer Motion for smooth animations and a heartfelt user experience.",
+    link: "https://github.com/aidilprmdta/Birthday-site",
+    tech: ["React", "Tailwind CSS", "JavaScript", "Node.js", "Framer Motion"],
+  },     
   {
     image: "https://www.dl.dropboxusercontent.com/scl/fi/349vc7gsxottv38fiuzws/hbd2.png?rlkey=zp44c8mr2kjzm8qwgzny7yuqj&st=dsapjxax",
     title: "Birthday-site-two",
@@ -50,6 +50,20 @@ const projects = [
     description: "Class website for ativerse. Built with React, Tailwind CSS, Node.js, and Framer Motion ",
     link: "https://github.com/aidilprmdta/web-ativerse",
     tech: ["React", "Tailwind CSS", "JavaScript", "Node.js", "Framer Motion", "Supabase", "AOS", "Gsap"],
+  },
+  {
+    image: "https://www.dropbox.com/scl/fi/3tlw9kpky6m6ylw0ajesn/Ativerse.png?rlkey=1y84a5qmd6fh8puz1ject7hhg&st=e32hzd0f&raw=1",
+    title: "Video Cinematic SMAN 1 Pekanbaru - Reuni Akbar Ke-2",
+    description: "Class website for ativerse. Built with React, Tailwind CSS, Node.js, and Framer Motion ",
+    link: "https://drive.google.com/file/d/1LL_z9yIPBNK6B1WALJ_5iFUtulQ2En34/view?usp=drive_link",
+    tech: ["Capcut", "Canva", "Kolase"],
+  },
+  {
+    image: "https://www.dropbox.com/scl/fi/3tlw9kpky6m6ylw0ajesn/Ativerse.png?rlkey=1y84a5qmd6fh8puz1ject7hhg&st=e32hzd0f&raw=1",
+    title: "Design Poster",
+    description: "Class website for ativerse. Built with React, Tailwind CSS, Node.js, and Framer Motion ",
+    link: "https://drive.google.com/drive/folders/1fYZmzlt8cxTF5Ml5pP7WhEDy8GUFSWHr?usp=drive_link",
+    tech: ["Canva"],
   },
 ];
 
