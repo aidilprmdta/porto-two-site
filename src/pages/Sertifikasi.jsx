@@ -242,7 +242,7 @@ const Sertifikasi = () => {
         Sertifikat Event
       </motion.h2>
 
-      <div className="grid gap-8 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 w-full max-w-6xl">
+      <div className="grid gap-8 grid-cols-1 sm:grid-cols-2 md:grid-cols-5 w-full max-w-8xl">
         {sertifikasiList.map((sertif, idx) => (
           <motion.div
             key={idx}
