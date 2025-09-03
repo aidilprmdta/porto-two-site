@@ -13,7 +13,6 @@ function NavBar() {
   const navLinks = [
     { to: '/', icon: <Home size={18} />, label: 'Home' },
     { to: '/about', icon: <UserRound size={18} />, label: 'About' },
-    { to: '/contact', icon: <Phone size={18} />, label: 'Contact' },
     { to: '/experience', icon: <Briefcase size={18} />, label: 'Experience' },
     { to: '/project', icon: <Folder size={18} />, label: 'Project' },
     { to: '/sertifikasi', icon: <Award size={18} />, label: 'Sertifikat' },
