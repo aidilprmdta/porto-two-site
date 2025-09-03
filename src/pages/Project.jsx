@@ -14,6 +14,7 @@ const projects = [
     title: "Personal Portfolio Website",
     description: "A personal portfolio website built using HTML, CSS, and JavaScript. Hosted on GitHub Pages.",
     link: "https://github.com/aidilprmdta/website-aidilprmdta",
+    demolink: "https://aidilprmdta.github.io/website-aidilprmdta/",
     tech: ["Html", "CSS", "JavaScript", "Node.js"],
   },
   {
@@ -21,6 +22,7 @@ const projects = [
     title: "Website Digital-Quran",
     description: "A web app that lists and displays Qur'anic surahs and translations. Built using React.js, Tailwind CSS, and API from equran.id.",
     link: "https://github.com/aidilprmdta/Digital-Qur-an",
+    demolink: "https://digital-qur-an.vercel.app/",
     tech: ["React", "Tailwind CSS", "JavaScript", "Framer Motion"],
   },
   {
@@ -30,18 +32,19 @@ const projects = [
     link: "https://github.com/aidilprmdta/Toko-Makanan",
     tech: ["Java", "JavaFX"],
   },
-  {
-    image: "https://www.dl.dropboxusercontent.com/scl/fi/3wgcexeupfjzb5zy355nw/hbd1.png?rlkey=zwffm6e2fkvay78oim8cc2uwp&st=ot6ivn51",
-    title: "Birthday-site",
-    description: "Welcome to Birthday Site! This website is designed specifically to give romantic and special birthday wishes to your loved ones. Built with ❤️ using React, Tailwind CSS, Node.js, and Framer Motion for smooth animations and a heartfelt user experience.",
-    link: "https://github.com/aidilprmdta/Birthday-site",
-    tech: ["React", "Tailwind CSS", "JavaScript", "Node.js", "Framer Motion"],
-  },     
+  // {
+  //   image: "https://www.dl.dropboxusercontent.com/scl/fi/3wgcexeupfjzb5zy355nw/hbd1.png?rlkey=zwffm6e2fkvay78oim8cc2uwp&st=ot6ivn51",
+  //   title: "Birthday-site",
+  //   description: "Welcome to Birthday Site! This website is designed specifically to give romantic and special birthday wishes to your loved ones. Built with ❤️ using React, Tailwind CSS, Node.js, and Framer Motion for smooth animations and a heartfelt user experience.",
+  //   link: "https://github.com/aidilprmdta/Birthday-site",
+  //   tech: ["React", "Tailwind CSS", "JavaScript", "Node.js", "Framer Motion"],
+  // },     
   {
     image: "https://www.dl.dropboxusercontent.com/scl/fi/349vc7gsxottv38fiuzws/hbd2.png?rlkey=zp44c8mr2kjzm8qwgzny7yuqj&st=dsapjxax",
     title: "Birthday-site-two",
     description: "Romantic birthday site for loved ones. Built with React, Tailwind CSS, Node.js, and Framer Motion for emotion & animation.",
     link: "https://github.com/aidilprmdta/hbd",
+    demolink: "hhttps://aidilprmdta.github.io/hbd/",
     tech: ["Html", "CSS", "JavaScript", "Node.js", "Framer Motion"],
   },
   {
@@ -49,17 +52,18 @@ const projects = [
     title: "Ativerse",
     description: "Class website for ativerse. Built with React, Tailwind CSS, Node.js, and Framer Motion ",
     link: "https://github.com/aidilprmdta/web-ativerse",
+    demolink: "https://ativerse.vercel.app/",
     tech: ["React", "Tailwind CSS", "JavaScript", "Node.js", "Framer Motion", "Supabase", "AOS", "Gsap"],
   },
   {
-    image: "https://www.dropbox.com/scl/fi/3tlw9kpky6m6ylw0ajesn/Ativerse.png?rlkey=1y84a5qmd6fh8puz1ject7hhg&st=e32hzd0f&raw=1",
+    image: "https://www.dropbox.com/scl/fi/axbhkmzbatl1ulbmhgi1l/Video.png?rlkey=kmx90vicehq6hhlykxvqxktqs&st=2nsq5hpc&raw=1",
     title: "Video Cinematic SMAN 1 Pekanbaru - Reuni Akbar Ke-2",
     description: "Sebuah video cinematic untuk ajakan reuni, berisi footage kegiatan, pesan ajakan, dan ditutup dengan credit scene.",
     link: "https://drive.google.com/file/d/1LL_z9yIPBNK6B1WALJ_5iFUtulQ2En34/view?usp=drive_link",
     tech: ["Capcut", "Canva", "Kolase foto"],
   },
   {
-    image: "https://www.dropbox.com/scl/fi/3tlw9kpky6m6ylw0ajesn/Ativerse.png?rlkey=1y84a5qmd6fh8puz1ject7hhg&st=e32hzd0f&raw=1",
+    image: "https://www.dropbox.com/scl/fi/ccryx2eh9o3nvnyn1jcfp/Design.png?rlkey=8srwz80d8ztuw8n212qc75v03&st=z6jrxeb0&raw=1",
     title: "Design Poster",
     description: "Kumpulan desain untuk acara kampus.",
     link: "https://drive.google.com/drive/folders/1fYZmzlt8cxTF5Ml5pP7WhEDy8GUFSWHr?usp=drive_link",
@@ -121,6 +125,7 @@ function Project() {
               <p className="text-gray-700 dark:text-gray-300 text-sm mb-4 flex-grow">
                 {project.description}
               </p>
+              
               <div className="flex flex-wrap gap-2 mb-4">
                 {project.tech.map((tech, i) => (
                   <span
@@ -131,6 +136,7 @@ function Project() {
                   </span>
                 ))}
               </div>
+
               <a
                 href={project.link}
                 target="_blank"
@@ -139,6 +145,17 @@ function Project() {
               >
                 🔗 View Project
               </a>
+
+              {project.demolink && (
+              <a
+              href={project.demolink}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-sm text-green-600 dark:text-green-400 hover:underline"
+              >
+                🔗 Live Demo
+              </a>
+            )}
             </div>
           </motion.div>
         ))}
