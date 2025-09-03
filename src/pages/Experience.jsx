@@ -171,8 +171,8 @@ function Experience() {
       >
         Experience
       </motion.h2>
-
-      <div className="w-full max-w-3xl space-y-10">
+      
+      <div className="w-full max-w-7xl grid grid-cols-2 md:grid-cols-2 gap-8">
         {experiences.map((exp, idx) => (
           <motion.div
             key={idx}
