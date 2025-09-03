@@ -63,6 +63,29 @@ const experiences = [
       " Menganalisis kinerja konten dan memberikan rekomendasi untuk perbaikan",
       " Mengikuti tren desain dan teknologi terbaru untuk meningkatkan kualitas konten"
     ]
+  },
+  {
+    role: "Anggota Divisi HID - Kongres XVIII Departemen Teknik Informatika 2024",
+    company: "Himpunan Mahasiswa Teknik Informatika",
+    period: "Jan 2025 - Des 2025",
+    description: [
+      "Joining the Public Relations, Information, and Documentation (HID) team for this department-level event provided me with new experience in the world of formal event documentation. I was tasked with designing and documenting the entire event using a camera. This experience taught me to work quickly, meticulously, and remain creative even under time pressure. All documentation was then archived for final reports and post-event content."
+    ],
+    skills: [
+      "🎨 Graphic Design",
+      "📸 Photography",
+      "💪Teamwork",
+      "👨‍💻Problem Solving",
+      "⌚Time Management"    
+    ],
+    experience: [
+      " Menciptakan konten visual yang menarik untuk media sosial",
+      " Mengorganisir dan mendokumentasikan acara jurusan",
+      " Mengembangkan strategi komunikasi yang efektif untuk meningkatkan visibilitas jurusan",
+      " Membangun hubungan dengan audiens melalui interaksi di media sosial",
+      " Menganalisis kinerja konten dan memberikan rekomendasi untuk perbaikan",
+      " Mengikuti tren desain dan teknologi terbaru untuk meningkatkan kualitas konten"
+    ]
   }
 ];
 

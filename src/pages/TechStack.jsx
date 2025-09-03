@@ -74,7 +74,7 @@ const skills = [
     name: 'Netlify', 
     desc: 'Deployment static site, form handler & serverless.', 
     type: 'react' 
-  }
+  },
 ];
 
 const cardVariants = {

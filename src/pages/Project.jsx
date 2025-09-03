@@ -44,6 +44,13 @@ const projects = [
     link: "https://github.com/aidilprmdta/hbd",
     tech: ["Html", "CSS", "JavaScript", "Node.js", "Framer Motion"],
   },
+  {
+    image: "https://www.dropbox.com/scl/fi/3tlw9kpky6m6ylw0ajesn/Ativerse.png?rlkey=1y84a5qmd6fh8puz1ject7hhg&st=e32hzd0f&raw=1",
+    title: "Ativerse",
+    description: "Class website for ativerse. Built with React, Tailwind CSS, Node.js, and Framer Motion ",
+    link: "https://github.com/aidilprmdta/web-ativerse",
+    tech: ["React", "Tailwind CSS", "JavaScript", "Node.js", "Framer Motion", "Supabase", "AOS", "Gsap"],
+  },
 ];
 
 const cardVariants = {
