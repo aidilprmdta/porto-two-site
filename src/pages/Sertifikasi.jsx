@@ -205,6 +205,13 @@ const sertifikasiList = [
     deskripsi: 'Sertifikasi partisipasi dalam Simatif 2024 sebagai bentuk pengakuan atas kontribusi dalam organisasi.',
     link: 'https://www.dl.dropboxusercontent.com/scl/fi/jwyzwgq9znm10xrrwlwal/SIMATIF-Aidil-Pramadita-Putra.png?rlkey=y0jrr12y67atfp2jhua22dreo&st=9nqsv6pb',
   },
+  {
+    nama: 'DDoS Exposed - Aidil Pramadita Putra',
+    penyelenggara: 'Mata Hacker',
+    tahun: 2025,
+    deskripsi: 'Sertifikasi partisipasi dalam Webinar DDoS Exposed yang diselenggarakan oleh Mata Hacker x Mata Siber',
+    link: 'https://www.dropbox.com/scl/fi/cf8qhuri6h5ug2kvlir3z/SERTIFIKAT-Aidil-Pramadita-Putra-1.pdf?rlkey=4l1mh8761b35455tz5nt7j8iy&st=y0sorpp7&raw=1',
+  },
 ];
 
 const cardVariants = {
