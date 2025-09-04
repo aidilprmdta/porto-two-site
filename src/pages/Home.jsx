@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { FaGithub, FaLinkedin, FaEnvelope, FaInstagram, FaCcVisa } from "react-icons/fa";
+import { FaGithub, FaLinkedin, FaEnvelope, FaInstagram, FaCcVisa, FaBookOpen } from "react-icons/fa";
 
 export default function Home() {
     return (
@@ -26,7 +26,7 @@ export default function Home() {
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ delay: 0.3, duration: 0.6 }}
             >
-                Hai! Saya Aidil 👋
+                Hai! Saya Aidil <span className="text-white">👋</span>
             </motion.h1>
 
             {/* Deskripsi */}
@@ -78,7 +78,7 @@ export default function Home() {
                     href="https://www.dropbox.com/scl/fi/owsvh0li58hjv35gnpkob/CV-AIDIL-PRAMADITA-PUTRA.pdf?rlkey=3v5mzvumsrh281fji423vtgx3&st=nj2tg2lr&raw=1"
                     className="flex items-center gap-2 bg-pink-700 hover:bg-gray-800 text-white font-medium py-2 px-5 rounded-full transition"
                 >
-                    <FaCcVisa /> CV
+                    <FaBookOpen /> CV
                 </a>
             </motion.div>
 
