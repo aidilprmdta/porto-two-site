@@ -51,7 +51,7 @@ import { motion } from 'framer-motion';
       company: "Himpunan Mahasiswa Teknik Informatika",
       period: "Okt 2024 - Des 2024",
       description: [
-        "Joining the Public Relations, Information, and Documentation (HID) team for this department-level event provided me with new experience in the world of formal event documentation. I was tasked with designing and documenting the entire event using a camera. This experience taught me to work quickly, meticulously, and remain creative even under time pressure. All documentation was then archived for final reports and post-event content."
+        "Bergabung dengan tim Humas, Informasi, dan Dokumentasi (HID) untuk acara tingkat departemen ini memberi saya pengalaman baru dalam dunia dokumentasi acara formal. Saya ditugaskan untuk merancang dan mendokumentasikan seluruh acara menggunakan kamera. Pengalaman ini mengajarkan saya untuk bekerja cepat, teliti, dan tetap kreatif bahkan di bawah tekanan waktu. Semua dokumentasi kemudian diarsipkan untuk laporan akhir dan konten pasca-acara."
       ],
       skills: [
         "🎨 Graphic Design",
@@ -62,11 +62,11 @@ import { motion } from 'framer-motion';
       ],
     },
     {
-      role: "Member of the XI Curmative HID Division",
+      role: "Anggota Divisi HID Kurmatif XI",
       company: "Himpunan Mahasiswa Teknik Informatika",
       period: "Mar 2025 - Mar 2025",
       description: [
-        "For this spiritually-themed event, I was once again entrusted with being a member of the HID division. In addition to design, I was also responsible for documenting the event. Furthermore, I was also responsible for the registration process, orderly recording the attendance. This activity taught me how to multitask, maintain communication with the team, and consistently produce neat, publishable documentation."
+        "Untuk acara bertema spiritual ini, saya kembali dipercaya menjadi anggota divisi HID. Selain desain, saya juga bertanggung jawab untuk mendokumentasikan acara. Selain itu, saya juga bertanggung jawab atas proses registrasi dan pencatatan kehadiran yang tertib. Kegiatan ini mengajarkan saya cara bekerja multitasking, menjaga komunikasi dengan tim, dan secara konsisten menghasilkan dokumentasi yang rapi dan layak publikasi."
       ],
       skills: [
         "🎨 Graphic Design",
@@ -77,11 +77,11 @@ import { motion } from 'framer-motion';
       ],
     },
     {
-      role: "Members of the HID Division of the HIMATIF Cup 2025",
+      role: "Anggota Divisi HID HIMATIF CUP 2025",
       company: "Himpunan Mahasiswa Teknik Informatika",
       period: "Mei 2025 - Mei 2025",
       description: [
-        "At this annual sporting event, I was entrusted with the role of designer and part of the documentation and videography team. Throughout the event, I captured key moments from each match using a camera, from the atmosphere of the match to the winning moments of the participating teams. This experience taught me the importance of speed, accuracy, and creativity in conveying information visually—especially in dynamic competitive situations. I also learned how to maintain good team coordination so that all content can be published quickly and remains engaging."
+        "Pada acara olahraga tahunan ini, saya dipercaya sebagai desainer dan bagian dari tim dokumentasi dan videografi. Sepanjang acara, saya mengabadikan momen-momen penting dari setiap pertandingan menggunakan kamera, mulai dari atmosfer pertandingan hingga momen-momen kemenangan tim-tim peserta. Pengalaman ini mengajarkan saya pentingnya kecepatan, akurasi, dan kreativitas dalam menyampaikan informasi secara visual—terutama dalam situasi kompetisi yang dinamis. Saya juga belajar bagaimana menjaga koordinasi tim yang baik agar semua konten dapat dipublikasikan dengan cepat dan tetap menarik."
       ],
       skills: [
         "🎨 Graphic Design",
@@ -92,11 +92,11 @@ import { motion } from 'framer-motion';
       ],
     },
     {
-      role: "Members of the HID Upgrading Division of HIMATIF 2025",
+      role: "Anggota Divisi HID HIMATIF UPGRADING 2025",
       company: "Himpunan Mahasiswa Teknik Informatika",
       period: "Mei 2025 - Mei 2025",
       description: [
-        "HIMATIF Upgrading 2025 is an internal event organized by and for members of the Informatics Engineering Student Association (HIMATIF). The goal of this event is to strengthen relationships among members, build solidarity, and enhance organizational spirit within the HIMA environment. As a committee member from the Information Relations and Documentation (HID) division, I was tasked with designing and documenting the event through photography. Although internal in nature, this event still demanded professionalism and strong collaboration across divisions. I learned the importance of maintaining design quality consistent with the organization's identity and ensuring smooth documentation, even in a short timeframe. This experience strengthened my skills in working in a small organization, while maintaining neat, structured, and communicative work standards."
+        "HIMATIF Upgrading 2025 merupakan acara internal yang diselenggarakan oleh dan untuk anggota Himpunan Mahasiswa Teknik Informatika (HIMATIF). Tujuan acara ini adalah untuk mempererat hubungan antar anggota, membangun solidaritas, dan meningkatkan semangat berorganisasi di lingkungan HIMA. Sebagai panitia dari divisi Hubungan Informasi dan Dokumentasi (HID), saya ditugaskan untuk merancang dan mendokumentasikan acara ini melalui fotografi. Meskipun bersifat internal, acara ini tetap menuntut profesionalisme dan kolaborasi yang kuat antar divisi. Saya belajar pentingnya menjaga kualitas desain yang konsisten dengan identitas organisasi dan memastikan dokumentasi yang lancar, meskipun dalam waktu singkat. Pengalaman ini memperkuat keterampilan saya dalam bekerja di organisasi kecil, sekaligus mempertahankan standar kerja yang rapi, terstruktur, dan komunikatif."
       ],
       skills: [
         "🎨 Poster Design",
@@ -107,11 +107,11 @@ import { motion } from 'framer-motion';
       ],
     },
     {
-      role: "Member of the 2025 Asomatic HID Division",
+      role: "Anggota Divisi HID Asomatif 2025",
       company: "Himpunan Mahasiswa Teknik Informatika",
       period: "Feb 2025 - Sekarang",
       description: [
-        "ASOMATIVE 2025 is a four-day student community service camp focused on character development and social engagement for new students, including community service, visits to orphanages, environmental projects, and outreach to schools. In this program, I served as part of the Information Relations and Documentation (HID) division, specifically in content creation and video editing. I participated in managing footage from various activities, creating visual narratives, and editing the material into short and long-form video content for internal publications and social media. This experience honed my skills in video storytelling, documentation file management, and how to convey the spirit of collaboration, education, and social awareness through visual media. ASOMATIVE 2025 also broadened my perspective on the importance of community service as part of a student's role."
+        "ASOMATIVE 2025 adalah program pengabdian masyarakat mahasiswa selama empat hari yang berfokus pada pengembangan karakter dan keterlibatan sosial bagi mahasiswa baru, termasuk pengabdian masyarakat, kunjungan ke panti asuhan, proyek lingkungan, dan penjangkauan ke sekolah-sekolah. Dalam program ini, saya bertugas di divisi Hubungan Informasi dan Dokumentasi (HID), khususnya dalam pembuatan konten dan penyuntingan video. Saya berpartisipasi dalam mengelola rekaman berbagai kegiatan, membuat narasi visual, dan menyunting materi menjadi konten video pendek dan panjang untuk publikasi internal dan media sosial. Pengalaman ini mengasah keterampilan saya dalam bercerita melalui video, mengelola berkas dokumentasi, dan menyampaikan semangat kolaborasi, edukasi, dan kepedulian sosial melalui media visual. ASOMATIVE 2025 juga memperluas perspektif saya tentang pentingnya pengabdian masyarakat sebagai bagian dari peran seorang mahasiswa."
       ],
       skills: [
         "🎨 Poster Design",
@@ -119,6 +119,48 @@ import { motion } from 'framer-motion';
         "Manajemen aktu",
         "Teamwork",
         "Komunikasi",   
+      ],
+    },
+    {
+      role: "Anggota Divisi Dokumentasi Forta Faste 2025",
+      company: "Himpunan Mahasiswa Teknik Informatika",
+      period: "Juni 2025 - Sekarang",
+      description: [
+        "Bergabung sebagai anggota divisi dokumentasi pada kegiatan FORTA FASTE 2025 (Forum Ta’aruf Fakultas Sains dan Teknologi). Dalam peran ini, aku bertanggung jawab untuk mendesain materi visual acara, membuat animasi logo, serta mendokumentasikan rangkaian kegiatan.",
+        "Melalui pengalaman ini, aku belajar bagaimana menyampaikan identitas acara melalui desain kreatif dan animasi, sekaligus memastikan seluruh momen penting terdokumentasi dengan baik. Kegiatan ini juga mengasah keterampilan kolaborasi dalam tim kreatif serta ketelitian dalam menghasilkan dokumentasi yang rapi dan terorganisir."
+      ],
+      skills: [
+        "Desain Grafis",
+        "Animasi Logo",
+        "Dokumentasi Acara",
+        "Kerja Tim",
+        "Komunikasi",
+        "Pemecahan Masalah",
+        "Perencanaan Strategis"   
+      ],
+    },
+    {
+      role: "Ketua Tim Humas, Informasi, dan Dokumentasi (HID) SIMATIF 2025",
+      company: "Himpunan Mahasiswa Teknik Informatika",
+      period: "Juni 2025 - Sekarang",
+      description: [
+        "Saya memimpin tim HID yang beranggotakan 11 orang untuk SIMATIF 2025, sebuah acara yang bertujuan untuk mempromosikan mahasiswa teknologi informasi. Saya bertanggung jawab untuk mengoordinasikan kegiatan tim dan memastikan tujuan acara tercapai.",
+        "Prestasi:",
+        "- Mengembangkan sistem komunikasi terstruktur menggunakan WhatsApp Community untuk menyederhanakan koordinasi dalam tim HID",
+        "- Mengoptimalkan distribusi tugas untuk mengelola beban kerja yang tinggi dan memastikan saluran komunikasi yang jelas",
+        "- Mengawasi semua aspek kreatif dan dokumentasi untuk acara mendatang, termasuk perencanaan konten, alokasi sumber daya, dan kolaborasi tim",
+        "- Meningkatkan kesadaran dan partisipasi mahasiswa teknologi informasi melalui kegiatan penjangkauan yang efektif",
+        "Dengan pengalaman ini, saya memiliki kemampuan untuk memimpin tim dan mengelola proyek yang kompleks, memastikan tujuan acara tercapai melalui komunikasi dan kolaborasi tim yang efektif."
+      ],
+      skills: [
+        "Desain Grafis",
+        "Produksi Video",
+        "Kerja Tim",
+        "Komunikasi",
+        "Manajemen Waktu",
+        "Pemecahan Masalah",
+        "Kepemimpinan",
+        "Perencanaan Strategis"   
       ],
     },
   ];
@@ -151,7 +193,7 @@ import { motion } from 'framer-motion';
         {isLong && (
           <button
             onClick={() => setExpanded(!expanded)}
-            className="ml-2 text-blue-500 hover:underline font-medium"
+            className="ml text-blue-500 hover:underline font-medium"
           >
             {expanded ? "Sembunyikan" : "Baca selengkapnya"}
           </button>
