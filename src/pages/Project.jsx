@@ -136,7 +136,8 @@ function Project() {
                   </span>
                 ))}
               </div>
-
+              
+              <div className="flex justify-between items-center mt-auto">
               <a
                 href={project.link}
                 target="_blank"
@@ -151,11 +152,12 @@ function Project() {
               href={project.demolink}
               target="_blank"
               rel="noopener noreferrer"
-              className="text-sm text-green-600 dark:text-green-400 hover:underline"
+              className="text-sm text-green-600 text-right dark:text-blue-400 hover:underline"
               >
                 🔗 Live Demo
               </a>
             )}
+            </div>
             </div>
           </motion.div>
         ))}
