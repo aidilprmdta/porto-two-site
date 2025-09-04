@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from "react";
 import { motion } from 'framer-motion';
 
 const sertifikasiList = [
@@ -259,6 +259,7 @@ const Sertifikasi = () => {
             <p className="text-sm text-gray-600 dark:text-gray-300 mb-2">
               {sertif.penyelenggara} &bull; {sertif.tahun}
             </p>
+            
             <p className="text-gray-700 dark:text-gray-300 text-sm mb-4">
               {sertif.deskripsi}
             </p>
