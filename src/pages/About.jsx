@@ -17,7 +17,7 @@ function AboutContactSplit() {
         animate={{ x: 0, opacity: 1 }}
         transition={{ duration: 0.8 }}
       >
-        <h2 className="text-4xl text-center font-bold bg-blue-600 bg-clip-text text-transparent">
+        <h2 className="text-4xl text-center font-bold bg-blue-600 bg-clip-text text-transparent mb-6">
           Tentang Saya
         </h2>
             <p> 
@@ -45,13 +45,13 @@ function AboutContactSplit() {
 
       {/* RIGHT - CONTACT */}
       <motion.div
-        className="flex flex-col justify-center px-8 py-16 bg-white/30 dark:bg-gray-800/30 backdrop-blur-xl border-l border-gray-300 dark:border-gray-700"
+        className="flex-col justify-center px-8 py-16 bg-white/30 dark:bg-gray-800/30 backdrop-blur-xl border-l border-gray-300 dark:border-gray-700"
         initial={{ x: 100, opacity: 0 }}
         animate={{ x: 0, opacity: 1 }}
         transition={{ duration: 0.8 }}
       >
         <motion.h1
-          className="text-4xl text-center font-bold bg-blue-600 bg-clip-text text-transparent"
+          className="text-4xl text-center font-bold bg-blue-600 bg-clip-text text-transparent mb-6"
           initial={{ x: 100, opacity: 0 }}
           animate={{ x: 0, opacity: 1 }}
           transition={{ delay: 0.2, duration: 0.5 }}

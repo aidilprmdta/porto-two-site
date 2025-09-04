@@ -90,7 +90,7 @@ function Project() {
       className="min-h-screen bg-gradient-to-b from-white to-gray-100 dark:from-gray-950 dark:to-gray-900 py-16 px-6"
       initial={{ opacity: 0 }}
       animate={{ opacity: 1 }}
-      transition={{ duration: 0.6 }}
+      transition={{ duration: 0.3 }}
     >
       <motion.h1
         className="text-4xl font-bold mb-12 text-center text-blue-600 dark:text-blue"
