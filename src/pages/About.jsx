@@ -13,7 +13,7 @@ function AboutContactSplit() {
       {/* LEFT - ABOUT */}
       <motion.div
         className="flex flex-col justify-center px-8 py-16 space-y-6"
-        initial={{ x: -40, opacity: 0 }}
+        initial={{ x: -100, opacity: 0 }}
         animate={{ x: 0, opacity: 1 }}
         transition={{ duration: 0.8 }}
       >
@@ -46,13 +46,13 @@ function AboutContactSplit() {
       {/* RIGHT - CONTACT */}
       <motion.div
         className="flex flex-col justify-center px-8 py-16 bg-white/30 dark:bg-gray-800/30 backdrop-blur-xl border-l border-gray-300 dark:border-gray-700"
-        initial={{ x: 40, opacity: 0 }}
+        initial={{ x: 100, opacity: 0 }}
         animate={{ x: 0, opacity: 1 }}
         transition={{ duration: 0.8 }}
       >
         <motion.h1
           className="text-4xl font-bold text-center mb-6 bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent"
-          initial={{ x: -20, opacity: 0 }}
+          initial={{ x: 100, opacity: 0 }}
           animate={{ x: 0, opacity: 1 }}
           transition={{ delay: 0.2, duration: 0.5 }}
         >
@@ -61,8 +61,8 @@ function AboutContactSplit() {
 
         <motion.p
           className="text-center text-gray-700 dark:text-gray-300 mb-8"
-          initial={{ opacity: 0, y: -10 }}
-          animate={{ opacity: 1, y: 0 }}
+          initial={{ opacity: 0, x: 100 }}
+          animate={{ opacity: 1, x: 0 }}
           transition={{ delay: 0.3, duration: 0.5 }}
         >
           Jangan ragu untuk menghubungi saya jika ingin berkolaborasi, berdiskusi proyek, atau sekadar menyapa!
@@ -137,8 +137,8 @@ function AboutContactSplit() {
         {/* Info Kontak */}
         <motion.div
           className="mt-8 text-center space-y-2"
-          initial={{ y: 20, opacity: 0 }}
-          animate={{ y: 0, opacity: 1 }}
+          initial={{ x: 100, opacity: 0 }}
+          animate={{ x: 0, opacity: 1 }}
           transition={{ delay: 0.6, duration: 0.5 }}
         >
           <p className="flex items-center justify-center gap-2">
