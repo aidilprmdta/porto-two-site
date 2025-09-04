@@ -17,7 +17,7 @@ function AboutContactSplit() {
         animate={{ x: 0, opacity: 1 }}
         transition={{ duration: 0.8 }}
       >
-        <h2 className="text-4xl text-center font-bold bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 bg-clip-text text-transparent">
+        <h2 className="text-4xl text-center font-bold bg-blue-600 bg-clip-text text-transparent">
           Tentang Saya
         </h2>
 <p> 
