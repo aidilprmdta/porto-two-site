@@ -20,7 +20,7 @@ function AboutContactSplit() {
         <h2 className="text-4xl text-center font-bold bg-blue-600 bg-clip-text text-transparent">
           Tentang Saya
         </h2>
-<p> 
+            <p> 
               Hai! Aku <span className="font-semibold text-indigo-700 dark:text-indigo-300">Aidil Pramadita Putra</span> aku berasal dari <span className="font-medium text-indigo-700 dark:text-indigo-300">Duri</span>. Saat ini aku adalah mahasiswa semester 3 di Program Studi Teknik Informatika, Fakultas Sains dan Teknologi, Universitas Islam Negeri Sultan Syarif Kasim. 
             </p>
             <p> 
@@ -51,7 +51,7 @@ function AboutContactSplit() {
         transition={{ duration: 0.8 }}
       >
         <motion.h1
-          className="text-4xl font-bold text-center mb-6 bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent"
+          className="text-4xl text-center font-bold bg-blue-600 bg-clip-text text-transparent"
           initial={{ x: 100, opacity: 0 }}
           animate={{ x: 0, opacity: 1 }}
           transition={{ delay: 0.2, duration: 0.5 }}
