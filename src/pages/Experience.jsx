@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-  import { motion } from 'framer-motion';
+import { motion } from 'framer-motion';
 
   const experiences = [
     {
@@ -14,10 +14,6 @@ import React, { useState } from "react";
         "🎨 Desain",
         "💬 Komunikasi",
         "👥 Kerja Sama Tim",
-      ],
-      experience: [
-        " Mengerjakan proyek desain grafis dan gambar animasi untuk klien lokal",
-        " Membuat konten visual untuk media sosial",    
       ]
     },
     {
@@ -33,12 +29,6 @@ import React, { useState } from "react";
         "🎨 Desain",
         "💬 Komunikasi",
         "👥 Kerja Sama Tim",
-      ],
-      experience: [
-        " Anggota Jurnalisme OSIS, SMA IT AL-KAUTSAR (2021-2022)",
-        " Fotografi untuk acara sekolah",
-        " Penyuntingan video untuk keperluan promosi",
-        " Desain konten media sosial"
       ]
     },
     {
@@ -54,14 +44,6 @@ import React, { useState } from "react";
         "🎥 Videografi dan dokumentasi",
         "📸 Fotografi acara",
         "🖌️ Penyuntingan konten visual dan media sosial"
-      ],
-      experience: [
-        " Menciptakan konten visual yang menarik untuk media sosial",
-        " Mengorganisir dan mendokumentasikan acara jurusan",
-        " Mengembangkan strategi komunikasi yang efektif untuk meningkatkan visibilitas jurusan",
-        " Membangun hubungan dengan audiens melalui interaksi di media sosial",
-        " Menganalisis kinerja konten dan memberikan rekomendasi untuk perbaikan",
-        " Mengikuti tren desain dan teknologi terbaru untuk meningkatkan kualitas konten"
       ]
     },
     {
@@ -231,19 +213,6 @@ import React, { useState } from "react";
                   </h3>
                   <ul className="list-disc ml-6 text-gray-800 dark:text-gray-300">
                     {exp.skills.map((item, index) => (
-                      <li key={index}>{item}</li>
-                    ))}
-                  </ul>
-                </>
-              )}
-
-              {exp.experience?.length > 0 && (
-                <>
-                  <h3 className="mt-4 font-semibold text-gray-900 dark:text-gray-200">
-                    Pengalaman:
-                  </h3>
-                  <ul className="list-disc ml-6 text-gray-800 dark:text-gray-300">
-                    {exp.experience.map((item, index) => (
                       <li key={index}>{item}</li>
                     ))}
                   </ul>
