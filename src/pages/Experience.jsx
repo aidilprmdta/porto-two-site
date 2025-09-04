@@ -214,7 +214,7 @@ import { motion } from 'framer-motion';
           initial={{ opacity: 0, y: -30 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.7 }}
-          className="text-4xl font-extrabold mb-12 text-center tracking-tight text-blue-600 dark:text-blue-400"
+          className="text-4xl mb-12 text-center tracking-tight text-blue-600 dark:text-blue-400"
         >
           Experience
         </motion.h2>
