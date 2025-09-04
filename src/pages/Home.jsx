@@ -75,7 +75,7 @@ export default function Home() {
                     <FaInstagram /> Instagram
                 </a>
                 <a
-                    href="https://www.instagram.com/aidilprmdta"
+                    href="https://www.dropbox.com/scl/fi/owsvh0li58hjv35gnpkob/CV-AIDIL-PRAMADITA-PUTRA.pdf?rlkey=3v5mzvumsrh281fji423vtgx3&st=nj2tg2lr&raw=1"
                     className="flex items-center gap-2 bg-pink-700 hover:bg-gray-800 text-white font-medium py-2 px-5 rounded-full transition"
                 >
                     <FaCcVisa /> CV
