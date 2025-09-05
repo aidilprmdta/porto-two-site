@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 
-const modes = ['system', 'dark', 'light'];
+const modes = ['dark', 'light'];
 
 export default function ThemeToggle() {
   const [theme, setTheme] = useState(() => {
